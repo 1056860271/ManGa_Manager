@@ -1,0 +1,13 @@
+D:\Project\C\ManGa_Manager\ManGa_Manager\ManGa_Manager\bin\Debug\ManGa_Manager.exe.config
+D:\Project\C\ManGa_Manager\ManGa_Manager\ManGa_Manager\bin\Debug\ManGa_Manager.exe
+D:\Project\C\ManGa_Manager\ManGa_Manager\ManGa_Manager\bin\Debug\ManGa_Manager.pdb
+D:\Project\C\ManGa_Manager\ManGa_Manager\ManGa_Manager\obj\Debug\ManGa_Manager.csprojAssemblyReference.cache
+D:\Project\C\ManGa_Manager\ManGa_Manager\ManGa_Manager\obj\Debug\ManGa_Manager.Properties.Resources.resources
+D:\Project\C\ManGa_Manager\ManGa_Manager\ManGa_Manager\obj\Debug\ManGa_Manager.csproj.GenerateResource.cache
+D:\Project\C\ManGa_Manager\ManGa_Manager\ManGa_Manager\obj\Debug\ManGa_Manager.csproj.CoreCompileInputs.cache
+D:\Project\C\ManGa_Manager\ManGa_Manager\ManGa_Manager\obj\Debug\ManGa_Manager.exe
+D:\Project\C\ManGa_Manager\ManGa_Manager\ManGa_Manager\obj\Debug\ManGa_Manager.pdb
+D:\Project\C\ManGa_Manager\ManGa_Manager\ManGa_Manager\obj\Debug\ManGa_Manager.MainDialog.resources
+D:\Project\C\ManGa_Manager\ManGa_Manager\ManGa_Manager\obj\Debug\ManGa_Manager.Views.About.resources
+D:\Project\C\ManGa_Manager\ManGa_Manager\ManGa_Manager\obj\Debug\ManGa_Manager.Views.Setting.resources
+D:\Project\C\ManGa_Manager\ManGa_Manager\ManGa_Manager\obj\Debug\ManGa_Manager.Views.imageViewer.resources

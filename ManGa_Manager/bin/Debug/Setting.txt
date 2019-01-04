@@ -1,0 +1,12 @@
+defPath=D:\manga
+
+png=T
+
+bmp=F
+
+gif=F
+
+tif=F
+
+webp=F
+
